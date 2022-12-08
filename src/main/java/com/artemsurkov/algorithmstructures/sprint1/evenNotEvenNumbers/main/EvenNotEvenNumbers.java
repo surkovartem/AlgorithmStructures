@@ -1,4 +1,4 @@
-package com.example.algorithmstructures.sprint1.evenNotEvenNumbers.main;
+package com.artemsurkov.algorithmstructures.sprint1.evenNotEvenNumbers.main;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package com.example.algorithmstructures.sprint1.valueFunction.main;
+package com.artemsurkov.algorithmstructures.sprint1.valueFunction.main;
 
 import java.io.BufferedReader;
 import java.io.IOException;

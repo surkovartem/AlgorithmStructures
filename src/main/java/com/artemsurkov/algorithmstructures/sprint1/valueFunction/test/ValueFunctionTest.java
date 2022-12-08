@@ -1,12 +1,12 @@
-package com.example.algorithmstructures.sprint1.valueFunction.test;
+package com.artemsurkov.algorithmstructures.sprint1.valueFunction.test;
 
-import static com.example.algorithmstructures.sprint1.valueFunction.main.ValueFunction.getAnswer;
+import static com.artemsurkov.algorithmstructures.sprint1.valueFunction.main.ValueFunction.getAnswer;
 import static java.lang.System.out;
 
 import java.util.concurrent.TimeUnit;
+import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.DisplayName;
-import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.Timeout;
 import org.opentest4j.AssertionFailedError;
 

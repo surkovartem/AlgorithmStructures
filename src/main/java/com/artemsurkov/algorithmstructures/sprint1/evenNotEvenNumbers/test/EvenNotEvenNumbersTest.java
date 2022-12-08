@@ -1,12 +1,12 @@
-package com.example.algorithmstructures.sprint1.evenNotEvenNumbers.test;
+package com.artemsurkov.algorithmstructures.sprint1.evenNotEvenNumbers.test;
 
-import static com.example.algorithmstructures.sprint1.evenNotEvenNumbers.main.EvenNotEvenNumbers.isEven;
+import static com.artemsurkov.algorithmstructures.sprint1.evenNotEvenNumbers.main.EvenNotEvenNumbers.isEven;
 import static java.lang.System.out;
 
 import java.util.concurrent.TimeUnit;
+import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.DisplayName;
-import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.Timeout;
 import org.opentest4j.AssertionFailedError;
 
